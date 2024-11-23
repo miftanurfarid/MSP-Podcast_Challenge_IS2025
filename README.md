@@ -7,12 +7,12 @@ This repository contains scripts to train and evaluate baseline models on variou
 
 #### Refer to the links below to sign up for the challenge and to find information about the rules, submission deadlines, file formatting instructions, and more:
 
-Link to the challenge: [Interspeech - Speech Emotion Recognition in Naturalistic Conditions Challenge](https://lab-msp.com/MSP-Podcast_Competition/IS2025/)
+Link to the challenge: [Interspeech 2025 - Speech Emotion Recognition in Naturalistic Conditions Challenge](https://lab-msp.com/MSP-Podcast_Competition/IS2025/)
 
 
-Link to the Odyssey 2024 - Speech Emotion Recognition challenge: [PDF](https://ecs.utdallas.edu/research/researchlabs/msp-lab/publications/Goncalves_2024.pdf)
+Link to previous challenge paper (Odyssey 2024 - SER Challenge): [PDF](https://ecs.utdallas.edu/research/researchlabs/msp-lab/publications/Goncalves_2024.pdf)
 
-The paper contains baseline implementation details. Citation:
+The paper contains baseline implementation details. See citation bellow:
 
 ```
 @inproceedings{Goncalves_2024,
